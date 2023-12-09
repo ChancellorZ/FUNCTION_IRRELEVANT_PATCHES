@@ -1,0 +1,7 @@
+single.py	collect function-irrelevant patches
+count.py	statistical data collection
+
+sources of collected patches：
+Linux Kernel Repository: https://github.com/torvalds/linux
+BusyBox Repository: https://busybox.net/
+OpenSSL Repository: https://github.com/openssl/openss
